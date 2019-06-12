@@ -1,4 +1,4 @@
-package ru.magnat;
+package ru.magnat.pojo;
 
 public class RefUser {
 
